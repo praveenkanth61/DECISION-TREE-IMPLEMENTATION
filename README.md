@@ -91,10 +91,10 @@ Based on features such as age,savings,employment,credit_history and more..The ta
 
 Resources:
 
-Chatgpt
+1.Chatgpt
 
-Geeks for Geeks
+2.Geeks for Geeks
 
-youtube
+3.Youtube
 
 4.Machine Learning using python by Manaranjan Pradhan and U Dinesh
