@@ -86,4 +86,4 @@ Dataset: The dataset contains 1000 records and 21 columns. It is related to cred
 Based on features such as age,savings,employment,credit_history and more..The target variable is credit_risk which is binary.
 
 #OUTPUT
-
+![Image](https://github.com/user-attachments/assets/843b87cf-727f-422f-82db-b46991b6aee8)
