@@ -87,3 +87,14 @@ Based on features such as age,savings,employment,credit_history and more..The ta
 
 #OUTPUT
 ![Image](https://github.com/user-attachments/assets/843b87cf-727f-422f-82db-b46991b6aee8)
+![Image](https://github.com/user-attachments/assets/45ddf6fd-46d1-44e3-8e50-0b2213dd1be4)
+
+Resources:
+
+Chatgpt
+
+Geeks for Geeks
+
+youtube
+
+4.Machine Learning using python by Manaranjan Pradhan and U Dinesh
