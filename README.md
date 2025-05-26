@@ -29,7 +29,9 @@ These Decision Trees are manily used in:
 
 1.Medical diagnosis (To predict disease based on symptoms). 2.Credit scoring (To classify good or bad credit risk). 3.Marketing (Segmenting customers for targeted promotions). 4.Fraud detection (Detecting anamolies in transactions). 5.Spam email detection (Filtering spam or non_spam based on some words in the mail).
 
-Advantages of Decision Trees: 1.Easy to interpret and visualize.
+Advantages of Decision Trees:
+
+1.Easy to interpret and visualize.
 
 2.Handles both numerical and categorical data.
 
@@ -37,7 +39,9 @@ Advantages of Decision Trees: 1.Easy to interpret and visualize.
 
 4.Works well if the data is missing in the data set.
 
-Limitations of Decision Trees: 1.Prone to overfitting
+Limitations of Decision Trees:
+
+1.Prone to overfitting
 
 2.Sensitivity to noisy data
 
@@ -55,7 +59,9 @@ Entropy:
 
 It is also one of the measure used in Decision trees. Entropy comes from Information theory it measures unpredictibility or disorder in a set. The fromula used for calculating Entropy is: [Entropy=-sigma(1 to n)probability of class(Pi)log base2 probability of class(Pi)] if all examples are of the same class then entropy is 0 It has more theoretical and uses information gain.
 
-Coming to the code implementaion the libraries used are: 1.Pandas --> Used for data manipulation
+Coming to the code implementaion the libraries used are:
+
+1.Pandas --> Used for data manipulation
 
 2.Numpy -->Used for Numerical computations
 
